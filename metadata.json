@@ -1,0 +1,6 @@
+{
+  "name": "Secure Document & Info Vault",
+  "description": "An encrypted personal vault to securely store confidential documents, records, credentials, and notes with end-to-end encryption and two-factor authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
